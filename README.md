@@ -9,6 +9,10 @@ Speed Test Writer is a lightweight typing performance tool designed to measure y
 
 ---
 
+## 📷 Preview
+
+https://github.com/user-attachments/assets/ac159f83-9bb5-4aab-80e0-f3282f6d3fb5
+
 ## 📦 Installation
 
 ### Option 1 — Clone & Run
