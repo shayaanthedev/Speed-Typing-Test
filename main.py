@@ -17,6 +17,7 @@ GREEN  = "#3ddc84"
 RED    = "#e05757"    
 BLUE   = "#4f8ef7"    
 GRAPH  = "#3ddc84"    
+WHITE =  "#ffffff"
 MONO   = "Courier New" #this font gives of mr robot vibes u feel me
 
 # this is like the backup if the API is unreachable, you can add new words here as well
@@ -227,7 +228,7 @@ class App(tk.Tk):
 
         self._txt.tag_configure("correct", foreground=GREEN)
         self._txt.tag_configure("wrong",   foreground=RED, background="#2a1414")
-        self._txt.tag_configure("cursor",  foreground=BG,  background=BLUE)
+        self._txt.tag_configure("cursor",  foreground=BG,  background=WHITE)
         self._txt.tag_configure("pending", foreground=DIM)
         self._txt.tag_configure("loading", foreground=DIM)
 
