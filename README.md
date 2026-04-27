@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/ac159f83-9bb5-4aab-80e0-f3282f6d3fb5
 ```bash
 git clone https://github.com/shayaanthedev/Speed-Typing-Test.git
 cd Speed-Typing-Test
-pip install -r requirements.txt
+pip install requests matplotlib
 python main.py
 ```
 ### Option 2 — Download Release
